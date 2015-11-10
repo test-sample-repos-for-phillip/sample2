@@ -2,5 +2,6 @@
     "concepts":["data"],
     "lang":"f#",
     "title":"Data Sample",
-    "description":"Hey it does some data stuff."
+    "description":"A very basic object-relational mapper (ORM).",
+    "author":"cartermp"
 }
