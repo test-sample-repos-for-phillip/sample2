@@ -1,6 +1,6 @@
 {
     "concepts":["data"],
-    "lang":"f#",
+    "lang":"F#",
     "title":"Data Sample",
     "description":"A rudimentary object-relational mapper (ORM) which maps JSON files.",
     "author":"cartermp"
